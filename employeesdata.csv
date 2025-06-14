@@ -1,0 +1,16 @@
+employee_id,first_name,last_name,salary,department_id
+1,First1,Last1,18349,1.0
+2,First2,Last2,5235,2.0
+3,First3,Last3,17172,3.0
+4,First4,Last4,10192,
+5,First5,Last5,5905,1.0
+6,First6,Last6,15955,2.0
+7,First7,Last7,12813,
+8,First8,Last8,7895,5.0
+9,First9,Last9,10056,3.0
+10,First10,Last10,5144,
+11,First11,Last11,9225,4.0
+12,First12,Last12,12751,4.0
+13,First13,Last13,15989,2.0
+14,First14,Last14,19844,
+15,First15,Last15,8462,5.0
